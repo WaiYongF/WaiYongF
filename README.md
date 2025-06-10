@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Looking for current project I'm working on?    👉 [AI-Driven-Construction-Data-Pipeline](https://github.com/WaiYongF/AI-Driven-Construction-Data-Pipeline)  
+- 🔭 Looking for current project I'm working on?    👉 [Realtime-Fraud-Detection-Pipeline](https://github.com/WaiYongF/Realtime-Fraud-Detection-Pipeline)  
 - 📊 Looking for data visualization in Power BI?    👉 [Data_Visualization_of_Risk_Assessment_of_Transactions](https://github.com/WaiYongF/Data_Visualization_of_Risk_Assessment_of_Transactions)
 
 
