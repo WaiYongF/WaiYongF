@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Looking for current project I'm working on?    👉 [Realtime-Fraud-Detection-Pipeline](https://github.com/WaiYongF/Realtime-Fraud-Detection-Pipeline)
 - 📊 Looking for data visualization in Power BI?    👉 [Data_Visualization_of_Risk_Assessment_of_Transactions](https://github.com/WaiYongF/Data_Visualization_of_Risk_Assessment_of_Transactions)
 - 🌱 I’m currently learning ...                     👉 [Pos_System](https://github.com/WaiYongF/Pos_System)
+- Web Scrapper                                      👉 [Target-scraper](https://github.com/WaiYongF/target-scraper)
 
 
 
